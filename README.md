@@ -6,4 +6,5 @@ Traditional disaster training requires large teams, extensive coordination, and 
 
 The system guides trainees through **IAEA response procedures**, evaluating their decision-making against established best practices. This integration of **VR and AI** enhances accessibility and cost-effectiveness while leveraging the proven benefits of virtual reality — including higher engagement, improved retention, and better knowledge transfer.
 
-Link to video demo: https://youtu.be/dQ46JCIqF4c?si=tKC2HYgEWwbJjTs8
+[![Watch the demo](https://img.youtube.com/vi/dQ46JCIqF4c/maxresdefault.jpg)](https://youtu.be/dQ46JCIqF4c?si=tKC2HYgEWwbJjTs8)
+
