@@ -1,18 +1,9 @@
-# VR-Game-Jam-Template
- Starter Project using Unity XR Toolkit created for VR Jam 2023
+## VH-CRIT: Virtual High-Consequence Readiness Incident Training
 
-# Learn More About This Project
-[<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc)
+**Built in Unity and powered by generative AI, VH-CRIT places trainees in high-stakes radiological crisis scenarios where they must make real-time decisions and coordinate with AI-driven first responders.**
 
-https://youtu.be/apnfGuMI0Dc
+Traditional disaster training requires large teams, extensive coordination, and high costs. VH-CRIT streamlines this process by providing **immersive situational awareness** and **realistic dialogue** in a controlled virtual environment, enabling emergency managers to practice protocols more efficiently and effectively.
 
-# External Ressources
-This project uses a combination of these assets and tutorials :
+The system guides trainees through **IAEA response procedures**, evaluating their decision-making against established best practices. This integration of **VR and AI** enhances accessibility and cost-effectiveness while leveraging the proven benefits of virtual reality — including higher engagement, improved retention, and better knowledge transfer.
 
-https://youtu.be/6OT43pvUyfY
-
-https://youtu.be/JCyJ26cIM0Y
-
-https://kenney.nl/assets?q=audio
-
-https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples
+Link to video demo: https://youtu.be/dQ46JCIqF4c?si=tKC2HYgEWwbJjTs8
